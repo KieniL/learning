@@ -1,4 +1,4 @@
 base:
   '*':
-    - requirements
     - users
+    - requirements
