@@ -1,5 +1,4 @@
 users:
-
   lukas:
     fullname: lukas
     uid: 1010
